@@ -4,9 +4,9 @@ SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
 GO
-CREATE VIEW [dbo].[View_1]
+CREATE VIEW [dbo].[View_3]
 AS
-SELECT        c1 AS Col1, c2 AS Col2
+SELECT        c3
 FROM            dbo.Table_1
 
 GO

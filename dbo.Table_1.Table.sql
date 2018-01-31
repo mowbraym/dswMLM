@@ -1,6 +1,5 @@
 USE [dswMLM]
 GO
-/****** Object:  Table [dbo].[Table_1]    Script Date: 30/01/2018 5:54:19 PM ******/
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON

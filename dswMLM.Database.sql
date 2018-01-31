@@ -1,6 +1,5 @@
 USE [master]
 GO
-/****** Object:  Database [dswMLM]    Script Date: 30/01/2018 5:54:18 PM ******/
 CREATE DATABASE [dswMLM]
  CONTAINMENT = NONE
  ON  PRIMARY 
